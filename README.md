@@ -21,10 +21,8 @@ This repository contains my Python Basics Notebook, where I practiced and docume
 ### Type conversion (string → int, float, etc.)
 ### Hands-on exercises for revision
 # Mini Project: Student Database
-A simple real-life project where I:
-Stored details of multiple students using lists, tuples, sets, and dictionaries
-Added new students dynamically
-Printed student details (name, age, subjects)
-Extracted all unique subjects across students
-Retrieved specific student details (e.g., Sara’s agWrite a replyReturn to codeCode has comments. Press enter to view.
-0 commit commentsComments0 (0)Lock conversationCommentUnsubscribeYou're receiving notifications because yo
+### A simple real-life project where I:
+### Stored details of multiple students using lists, tuples, sets, and dictionaries
+### Added new students dynamically
+### Printed student details (name, age, subjects)
+### Extracted all unique subjects across students
