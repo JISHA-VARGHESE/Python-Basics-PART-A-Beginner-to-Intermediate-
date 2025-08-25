@@ -1,7 +1,7 @@
 # Python-Basics-PART-A-Beginner-to-Intermediate-
 Beginner to Intermediate Python concepts with hands-on exercises and a mini Student Database project.
 This repository contains my Python Basics Notebook, where I practiced and documented core Python programming concepts as part of my Data Science learning journey.
-📘 Topics Covered
+# Topics Covered
 ### Lesson 1: First Python Code (print statements & syntax basics)
 ### Lesson 2: Variables & Data Types (int, float, string, boolean)
 ### Lesson 3: print() & input() functions, Type Checking & Conversion
@@ -9,12 +9,12 @@ This repository contains my Python Basics Notebook, where I practiced and docume
 ### Lesson 5: Data Types Deep Dive
 ### Strings
 ### Lists (mutable)
-Tuples (immutable)
-Sets (unique values)
-Dictionaries (key-value pairs)
-Escape Sequences (\n, \t, etc.)
-Indexing & Slicing in Lists, Tuples, Dictionaries
-📝 Practice Tasks
+### Tuples (immutable)
+### Sets (unique values)
+### Dictionaries (key-value pairs)
+### Escape Sequences (\n, \t, etc.)
+### Indexing & Slicing in Lists, Tuples, Dictionaries
+# Practice Tasks
 Creating and modifying lists, tuples, and sets
 Using dictionaries for structured data storage
 Applying operators in different scenarios
