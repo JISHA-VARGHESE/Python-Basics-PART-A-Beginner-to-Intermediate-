@@ -15,12 +15,12 @@ This repository contains my Python Basics Notebook, where I practiced and docume
 ### Escape Sequences (\n, \t, etc.)
 ### Indexing & Slicing in Lists, Tuples, Dictionaries
 # Practice Tasks
-Creating and modifying lists, tuples, and sets
-Using dictionaries for structured data storage
-Applying operators in different scenarios
-Type conversion (string → int, float, etc.)
-Hands-on exercises for revision
-Mini Project: Student Database
+### Creating and modifying lists, tuples, and sets
+### Using dictionaries for structured data storage
+### Applying operators in different scenarios
+### Type conversion (string → int, float, etc.)
+### Hands-on exercises for revision
+# Mini Project: Student Database
 A simple real-life project where I:
 Stored details of multiple students using lists, tuples, sets, and dictionaries
 Added new students dynamically
